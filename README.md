@@ -35,7 +35,9 @@ Sinta-se à vontade para contribuir com o projeto, seja corrigindo bugs, adicion
 **Autor:**
 
 Gabriel de Souza Alves
+
 https://github.com/Gabriel-sa7
+
  gabrielsa0510@gmail.com
 
 **Licença:**
